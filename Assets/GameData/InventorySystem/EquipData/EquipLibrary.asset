@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44db8b8db3a8ee14a90ab2652a67c0ff, type: 3}
+  m_Name: EquipLibrary
+  m_EditorClassIdentifier: 
+  armaduraInferiorAssets:
+  - {fileID: 7108339969198208228, guid: 58431d9282fdb89428beab25ea4e9a63, type: 3}
+  - {fileID: 7108339969198208228, guid: 5d651b6e7236fc845bdc89682166b5a6, type: 3}

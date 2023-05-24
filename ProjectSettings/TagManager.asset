@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ally
+  - Neutral
+  - Hostile
+  - Enemy
+  - Faction Ally
+  - Group Ally
+  - Container
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Animators
+  - Characters
+  - Biome
+  - 
+  - 
+  - 
+  - InventarioLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Cabeza
+    uniqueID: 1622752987
+    locked: 0
+  - name: "S\xF3lidos"
+    uniqueID: 603628293
+    locked: 0
+  - name: InventarioOrderLayer
+    uniqueID: 3317574883
+    locked: 0
+  - name: Equipment
+    uniqueID: 1044496329
+    locked: 0

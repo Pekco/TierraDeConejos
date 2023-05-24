@@ -1,0 +1,472 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Idle_S
+    m_Hash: 92941103
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Brazo_I_0
+      m_Hash: -1814169564
+      m_Sprite: {fileID: 982634541, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 982634541, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_S
+    m_Hash: -30872898
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Brazo_I_1
+      m_Hash: -455423822
+      m_Sprite: {fileID: 1827658513, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1827658513, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_2
+      m_Hash: 2111019272
+      m_Sprite: {fileID: 2009157671, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2009157671, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_3
+      m_Hash: 181709214
+      m_Sprite: {fileID: 482998919, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 482998919, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_4
+      m_Hash: -1800389571
+      m_Sprite: {fileID: -121079390, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -121079390, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_5
+      m_Hash: -474542933
+      m_Sprite: {fileID: -1553007490, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1553007490, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_6
+      m_Hash: 2059296017
+      m_Sprite: {fileID: -369890477, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -369890477, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_7
+      m_Hash: 230256007
+      m_Sprite: {fileID: 777808279, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 777808279, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_8
+      m_Hash: -1660522474
+      m_Sprite: {fileID: -1741079236, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1741079236, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_SW
+    m_Hash: -1931895640
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Brazo_I_9
+      m_Hash: -369016704
+      m_Sprite: {fileID: 1913376943, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1913376943, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_SW
+    m_Hash: 187342267
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Brazo_I_10
+      m_Hash: -783231159
+      m_Sprite: {fileID: -1675501533, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1675501533, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_11
+      m_Hash: -1504188449
+      m_Sprite: {fileID: -853105204, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -853105204, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_12
+      m_Hash: 1063171685
+      m_Sprite: {fileID: -217813394, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -217813394, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_13
+      m_Hash: 1213826803
+      m_Sprite: {fileID: 1404598929, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1404598929, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_14
+      m_Hash: -700640432
+      m_Sprite: {fileID: 2063459229, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2063459229, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_15
+      m_Hash: -1590025274
+      m_Sprite: {fileID: 1965133203, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1965133203, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_16
+      m_Hash: 942895740
+      m_Sprite: {fileID: 1150474339, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1150474339, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_17
+      m_Hash: 1328825066
+      m_Sprite: {fileID: -555696701, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -555696701, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_W
+    m_Hash: 48754486
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Brazo_I_18
+      m_Hash: -544514181
+      m_Sprite: {fileID: -418440298, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -418440298, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_W
+    m_Hash: -112906585
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Brazo_I_19
+      m_Hash: -1467191315
+      m_Sprite: {fileID: 2071253366, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2071253366, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_20
+      m_Hash: -92437366
+      m_Sprite: {fileID: 1886480438, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1886480438, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_21
+      m_Hash: -1921338340
+      m_Sprite: {fileID: 1580783445, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1580783445, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_22
+      m_Hash: 343139750
+      m_Sprite: {fileID: 1243174171, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1243174171, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_23
+      m_Hash: 1668601136
+      m_Sprite: {fileID: 1660625678, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1660625678, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_24
+      m_Hash: -49266541
+      m_Sprite: {fileID: 1189367837, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1189367837, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_25
+      m_Hash: -1978175483
+      m_Sprite: {fileID: -1618688657, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1618688657, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_26
+      m_Hash: 320741823
+      m_Sprite: {fileID: -192563151, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -192563151, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_NW
+    m_Hash: 1941303476
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Brazo_I_27
+      m_Hash: 1679364393
+      m_Sprite: {fileID: 1321249801, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1321249801, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_NW
+    m_Hash: -196677209
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Brazo_I_28
+      m_Hash: -190444360
+      m_Sprite: {fileID: 131452723, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 131452723, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_29
+      m_Hash: -2086585298
+      m_Sprite: {fileID: 1827589628, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1827589628, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_30
+      m_Hash: -479808053
+      m_Sprite: {fileID: -746100874, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -746100874, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_31
+      m_Hash: -1805548195
+      m_Sprite: {fileID: 1181030378, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1181030378, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_32
+      m_Hash: 224974055
+      m_Sprite: {fileID: 1702724182, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1702724182, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_33
+      m_Hash: 2054153329
+      m_Sprite: {fileID: -2010911722, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2010911722, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_34
+      m_Hash: -469012014
+      m_Sprite: {fileID: -299919098, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -299919098, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_35
+      m_Hash: -1827913404
+      m_Sprite: {fileID: 354116209, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 354116209, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_N
+    m_Hash: 1720469494
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Brazo_I_36
+      m_Hash: 168104190
+      m_Sprite: {fileID: 387059429, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 387059429, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_N
+    m_Hash: -1657895321
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Brazo_I_37
+      m_Hash: 2097291368
+      m_Sprite: {fileID: 1776426663, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1776426663, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_38
+      m_Hash: -306364935
+      m_Sprite: {fileID: 296903902, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 296903902, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_39
+      m_Hash: -1699082897
+      m_Sprite: {fileID: 1672967812, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1672967812, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_40
+      m_Hash: -1406721268
+      m_Sprite: {fileID: 2024546455, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2024546455, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_41
+      m_Hash: -618654822
+      m_Sprite: {fileID: 2064610488, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2064610488, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_42
+      m_Hash: 1110000160
+      m_Sprite: {fileID: -1183675076, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1183675076, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_43
+      m_Hash: 892236470
+      m_Sprite: {fileID: -806558264, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -806558264, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_44
+      m_Hash: -1421154539
+      m_Sprite: {fileID: -367871709, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -367871709, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_NE
+    m_Hash: -2146663940
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Brazo_I_45
+      m_Hash: -598878333
+      m_Sprite: {fileID: 1227298404, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1227298404, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_NE
+    m_Hash: 134185199
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Brazo_I_46
+      m_Hash: 1162118713
+      m_Sprite: {fileID: -1966640252, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1966640252, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_47
+      m_Hash: 843298479
+      m_Sprite: {fileID: 258146860, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 258146860, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_48
+      m_Hash: -1560499394
+      m_Sprite: {fileID: 941834665, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 941834665, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_49
+      m_Hash: -704930904
+      m_Sprite: {fileID: -843034898, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -843034898, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_50
+      m_Hash: -1254354355
+      m_Sprite: {fileID: -1222718971, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1222718971, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_51
+      m_Hash: -1036311845
+      m_Sprite: {fileID: -1577530859, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1577530859, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_52
+      m_Hash: 1530032993
+      m_Sprite: {fileID: 1347468618, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1347468618, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_53
+      m_Hash: 741688311
+      m_Sprite: {fileID: -32761339, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -32761339, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_E
+    m_Hash: -245457282
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Brazo_I_54
+      m_Hash: -1303259564
+      m_Sprite: {fileID: 943069230, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 943069230, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_E
+    m_Hash: 184311791
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Brazo_I_55
+      m_Hash: -984160574
+      m_Sprite: {fileID: 1406375482, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1406375482, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_56
+      m_Hash: 1549776760
+      m_Sprite: {fileID: -1014585580, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1014585580, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_57
+      m_Hash: 727222254
+      m_Sprite: {fileID: -69282428, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -69282428, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_58
+      m_Hash: -1142449537
+      m_Sprite: {fileID: 447890379, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 447890379, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_59
+      m_Hash: -857691415
+      m_Sprite: {fileID: -213985040, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -213985040, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_60
+      m_Hash: -1643036274
+      m_Sprite: {fileID: -930456303, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -930456303, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_61
+      m_Hash: -384405224
+      m_Sprite: {fileID: -1628539415, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1628539415, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_62
+      m_Hash: 1881088162
+      m_Sprite: {fileID: 363434984, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 363434984, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_SE
+    m_Hash: 2137058784
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Brazo_I_63
+      m_Hash: 119017524
+      m_Sprite: {fileID: -765710743, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -765710743, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_SE
+    m_Hash: -124523277
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Brazo_I_64
+      m_Hash: -1719892585
+      m_Sprite: {fileID: -606139740, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -606139740, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_65
+      m_Hash: -293882623
+      m_Sprite: {fileID: 1817195790, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1817195790, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_66
+      m_Hash: 2004018363
+      m_Sprite: {fileID: -1361006189, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1361006189, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_67
+      m_Hash: 7722029
+      m_Sprite: {fileID: -691053603, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -691053603, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_68
+      m_Hash: -1865758276
+      m_Sprite: {fileID: -1570887414, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1570887414, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_69
+      m_Hash: -405931734
+      m_Sprite: {fileID: -930530867, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -930530867, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_70
+      m_Hash: -2029358897
+      m_Sprite: {fileID: -665984174, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -665984174, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    - m_Name: Brazo_I_71
+      m_Hash: -267567015
+      m_Sprite: {fileID: -60975701, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -60975701, guid: f0cca4ddeda03094291e5d70a44d5422, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  m_PrimaryLibraryGUID: 

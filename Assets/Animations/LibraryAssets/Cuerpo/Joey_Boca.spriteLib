@@ -1,0 +1,472 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Idle_S
+    m_Hash: 92941103
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Boca_0
+      m_Hash: -1823710571
+      m_Sprite: {fileID: 84547341, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 84547341, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_S
+    m_Hash: -30872898
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Boca_1
+      m_Hash: -464825853
+      m_Sprite: {fileID: 1442803507, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1442803507, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_2
+      m_Hash: 2101478329
+      m_Sprite: {fileID: 2124758472, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2124758472, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_3
+      m_Hash: 172307247
+      m_Sprite: {fileID: -1100300123, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1100300123, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_4
+      m_Hash: -1809734004
+      m_Sprite: {fileID: -1248642513, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1248642513, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_5
+      m_Hash: -484010470
+      m_Sprite: {fileID: -895969023, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -895969023, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_6
+      m_Hash: 2049951648
+      m_Sprite: {fileID: -275407235, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -275407235, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_7
+      m_Hash: 220788534
+      m_Sprite: {fileID: 1729577658, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1729577658, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_8
+      m_Hash: -1650988377
+      m_Sprite: {fileID: 114134918, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 114134918, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_SW
+    m_Hash: -1931895640
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Boca_9
+      m_Hash: -359605711
+      m_Sprite: {fileID: 2009828401, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2009828401, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_SW
+    m_Hash: 187342267
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Boca_10
+      m_Hash: 1832306121
+      m_Sprite: {fileID: 1756885289, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1756885289, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_11
+      m_Hash: 439481695
+      m_Sprite: {fileID: -1287078322, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1287078322, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_12
+      m_Hash: -2093439771
+      m_Sprite: {fileID: 712173776, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 712173776, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_13
+      m_Hash: -197159821
+      m_Sprite: {fileID: 214726218, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 214726218, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_14
+      m_Hash: 1784349136
+      m_Sprite: {fileID: 1331636952, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1331636952, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_15
+      m_Hash: 492581190
+      m_Sprite: {fileID: -1378153082, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1378153082, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_16
+      m_Hash: -2074779396
+      m_Sprite: {fileID: 1212595521, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1212595521, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_17
+      m_Hash: -212709270
+      m_Sprite: {fileID: 1833208226, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1833208226, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_W
+    m_Hash: 48754486
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Boca_18
+      m_Hash: 1676496379
+      m_Sprite: {fileID: -268434855, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -268434855, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_W
+    m_Hash: -112906585
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Boca_19
+      m_Hash: 350911853
+      m_Sprite: {fileID: -2140891753, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2140891753, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_20
+      m_Hash: 1176213002
+      m_Sprite: {fileID: 1028260204, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1028260204, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_21
+      m_Hash: 823961244
+      m_Sprite: {fileID: -492616737, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -492616737, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_22
+      m_Hash: -1474955482
+      m_Sprite: {fileID: 2068540014, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2068540014, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_23
+      m_Hash: -552417360
+      m_Sprite: {fileID: -1396077730, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1396077730, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_24
+      m_Hash: 1098273299
+      m_Sprite: {fileID: 1205585954, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1205585954, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_25
+      m_Hash: 913400453
+      m_Sprite: {fileID: -183983899, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -183983899, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_26
+      m_Hash: -1351077057
+      m_Sprite: {fileID: 1138762255, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1138762255, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_NW
+    m_Hash: 1941303476
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Boca_27
+      m_Hash: -662764631
+      m_Sprite: {fileID: -1652229318, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1652229318, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_NW
+    m_Hash: -196677209
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Boca_28
+      m_Hash: 1220550200
+      m_Sprite: {fileID: -842393737, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -842393737, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_29
+      m_Hash: 1070018222
+      m_Sprite: {fileID: 1327659563, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1327659563, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_30
+      m_Hash: 1593878347
+      m_Sprite: {fileID: -524250390, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -524250390, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_31
+      m_Hash: 671586269
+      m_Sprite: {fileID: -1344530009, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1344530009, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_32
+      m_Hash: -1324431769
+      m_Sprite: {fileID: 2011930902, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2011930902, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_33
+      m_Hash: -972425487
+      m_Sprite: {fileID: 2108683591, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2108683591, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_34
+      m_Hash: 1483563858
+      m_Sprite: {fileID: 432983505, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 432983505, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_35
+      m_Hash: 795497412
+      m_Sprite: {fileID: -1438590637, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1438590637, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_N
+    m_Hash: 1720469494
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Boca_36
+      m_Hash: -1235025282
+      m_Sprite: {fileID: 1229601526, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1229601526, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_N
+    m_Hash: -1657895321
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Boca_37
+      m_Hash: -1050397976
+      m_Sprite: {fileID: -1159906751, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1159906751, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_38
+      m_Hash: 1373319033
+      m_Sprite: {fileID: 949466689, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 949466689, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_39
+      m_Hash: 651960303
+      m_Sprite: {fileID: 1418751669, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1418751669, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_40
+      m_Hash: 272707980
+      m_Sprite: {fileID: 965822022, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 965822022, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_41
+      m_Hash: 1732641050
+      m_Sprite: {fileID: -5999816, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5999816, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_42
+      m_Hash: -28356448
+      m_Sprite: {fileID: 1694709610, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1694709610, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_43
+      m_Hash: -1991745482
+      m_Sprite: {fileID: -503405111, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -503405111, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_44
+      m_Hash: 388822421
+      m_Sprite: {fileID: 1590313279, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1590313279, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_NE
+    m_Hash: -2146663940
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Boca_45
+      m_Hash: 1613481219
+      m_Sprite: {fileID: 150133938, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 150133938, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_NE
+    m_Hash: 134185199
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Boca_46
+      m_Hash: -115174215
+      m_Sprite: {fileID: -1880760749, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1880760749, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_47
+      m_Hash: -1910135761
+      m_Sprite: {fileID: -625611447, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -625611447, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_48
+      m_Hash: 513456574
+      m_Sprite: {fileID: 107717504, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 107717504, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_49
+      m_Hash: 1771931944
+      m_Sprite: {fileID: -454516703, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -454516703, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_50
+      m_Hash: 156893389
+      m_Sprite: {fileID: 630594318, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 630594318, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_51
+      m_Hash: 2120036443
+      m_Sprite: {fileID: -746304612, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -746304612, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_52
+      m_Hash: -413900319
+      m_Sprite: {fileID: -1415764125, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1415764125, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_53
+      m_Hash: -1873587849
+      m_Sprite: {fileID: 1717471066, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1717471066, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_E
+    m_Hash: -245457282
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Boca_54
+      m_Hash: 238535892
+      m_Sprite: {fileID: 1141474734, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1141474734, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_E
+    m_Hash: 184311791
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Boca_55
+      m_Hash: 2033251394
+      m_Sprite: {fileID: -1609959363, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1609959363, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_56
+      m_Hash: -533092872
+      m_Sprite: {fileID: -1317462669, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1317462669, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_57
+      m_Hash: -1757506194
+      m_Sprite: {fileID: 309497790, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 309497790, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_58
+      m_Hash: 125929727
+      m_Sprite: {fileID: -455076768, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -455076768, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_59
+      m_Hash: 1887877225
+      m_Sprite: {fileID: 1542153014, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1542153014, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_60
+      m_Hash: 578245390
+      m_Sprite: {fileID: -1242984067, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1242984067, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_61
+      m_Hash: 1433428888
+      m_Sprite: {fileID: -572406392, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -572406392, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_62
+      m_Hash: -864472542
+      m_Sprite: {fileID: 1149788091, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1149788091, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_SE
+    m_Hash: 2137058784
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Boca_63
+      m_Hash: -1149369676
+      m_Sprite: {fileID: 413669589, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 413669589, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_SE
+    m_Hash: -124523277
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Boca_64
+      m_Hash: 622499607
+      m_Sprite: {fileID: 223160118, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 223160118, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_65
+      m_Hash: 1377675137
+      m_Sprite: {fileID: 1737188377, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1737188377, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_66
+      m_Hash: -887818693
+      m_Sprite: {fileID: -520681931, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -520681931, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_67
+      m_Hash: -1139554643
+      m_Sprite: {fileID: 978289159, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 978289159, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_68
+      m_Hash: 749525820
+      m_Sprite: {fileID: -1996012552, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1996012552, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_69
+      m_Hash: 1537993642
+      m_Sprite: {fileID: -1980744952, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1980744952, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_70
+      m_Hash: 996958799
+      m_Sprite: {fileID: 1509196105, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1509196105, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    - m_Name: Boca_71
+      m_Hash: 1282101977
+      m_Sprite: {fileID: -688449049, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -688449049, guid: b6f3e6d7cac62f449844e7abb930a387, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  m_PrimaryLibraryGUID: 

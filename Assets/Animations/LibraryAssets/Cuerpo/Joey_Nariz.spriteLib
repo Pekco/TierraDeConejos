@@ -1,0 +1,472 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Idle_S
+    m_Hash: 92941103
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Nariz_0
+      m_Hash: -850355662
+      m_Sprite: {fileID: 720936598, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 720936598, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_S
+    m_Hash: -30872898
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Nariz_1
+      m_Hash: -1168659804
+      m_Sprite: {fileID: 960470834, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 960470834, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_2
+      m_Hash: 593427230
+      m_Sprite: {fileID: 845052096, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 845052096, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_3
+      m_Hash: 1415170952
+      m_Sprite: {fileID: 833016086, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 833016086, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_4
+      m_Hash: -901947861
+      m_Sprite: {fileID: -133156201, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -133156201, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_5
+      m_Hash: -1120244035
+      m_Sprite: {fileID: 1530950860, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1530950860, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_6
+      m_Hash: 607338247
+      m_Sprite: {fileID: 1441895252, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1441895252, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_7
+      m_Hash: 1395920785
+      m_Sprite: {fileID: -1412689539, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1412689539, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_8
+      m_Hash: -1014296064
+      m_Sprite: {fileID: -1437225987, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1437225987, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_SW
+    m_Hash: -1931895640
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Nariz_9
+      m_Hash: -1265884522
+      m_Sprite: {fileID: -2000902231, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2000902231, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_SW
+    m_Hash: 187342267
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Nariz_10
+      m_Hash: 635105146
+      m_Sprite: {fileID: 1627145050, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1627145050, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_11
+      m_Hash: 1390272492
+      m_Sprite: {fileID: 290038494, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 290038494, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_12
+      m_Hash: -875262378
+      m_Sprite: {fileID: 144558660, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 144558660, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_13
+      m_Hash: -1126973760
+      m_Sprite: {fileID: -113953010, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -113953010, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_14
+      m_Hash: 582429539
+      m_Sprite: {fileID: 1809387572, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1809387572, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_15
+      m_Hash: 1437604853
+      m_Sprite: {fileID: -1089134244, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1089134244, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_16
+      m_Hash: -860272049
+      m_Sprite: {fileID: -103045683, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -103045683, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_17
+      m_Hash: -1145144615
+      m_Sprite: {fileID: -1538594389, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1538594389, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_W
+    m_Hash: 48754486
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Nariz_18
+      m_Hash: 721512264
+      m_Sprite: {fileID: 1726254405, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1726254405, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_W
+    m_Hash: -112906585
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Nariz_19
+      m_Hash: 1543919582
+      m_Sprite: {fileID: 1658829971, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1658829971, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_20
+      m_Hash: 251116729
+      m_Sprite: {fileID: -1256123154, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1256123154, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_21
+      m_Hash: 2045807663
+      m_Sprite: {fileID: 475234943, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 475234943, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_22
+      m_Hash: -520495723
+      m_Sprite: {fileID: -1701985532, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1701985532, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_23
+      m_Hash: -1744900861
+      m_Sprite: {fileID: 86089819, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 86089819, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_24
+      m_Hash: 161118368
+      m_Sprite: {fileID: -2004069442, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2004069442, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_25
+      m_Hash: 2124236854
+      m_Sprite: {fileID: -835928471, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -835928471, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_26
+      m_Hash: -409724532
+      m_Sprite: {fileID: 1705834366, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1705834366, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_NW
+    m_Hash: 1941303476
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Nariz_27
+      m_Hash: -1869403878
+      m_Sprite: {fileID: 1962950382, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1962950382, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_NW
+    m_Hash: -196677209
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Nariz_28
+      m_Hash: 2897035
+      m_Sprite: {fileID: -404912609, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -404912609, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_29
+      m_Hash: 1999307805
+      m_Sprite: {fileID: 952844411, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 952844411, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_30
+      m_Hash: 401378808
+      m_Sprite: {fileID: 1793845152, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1793845152, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_31
+      m_Hash: 1626062190
+      m_Sprite: {fileID: -1862835300, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1862835300, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_32
+      m_Hash: -102568748
+      m_Sprite: {fileID: 2044813174, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2044813174, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_33
+      m_Hash: -1897538494
+      m_Sprite: {fileID: 4020180, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 4020180, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_34
+      m_Hash: 276908513
+      m_Sprite: {fileID: 1976482102, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1976482102, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_35
+      m_Hash: 1736866167
+      m_Sprite: {fileID: -317192705, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -317192705, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_N
+    m_Hash: 1720469494
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Nariz_36
+      m_Hash: -24172339
+      m_Sprite: {fileID: -751799971, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -751799971, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_N
+    m_Hash: -1657895321
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Nariz_37
+      m_Hash: -1987569573
+      m_Sprite: {fileID: 1145280928, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1145280928, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_38
+      m_Hash: 423036362
+      m_Sprite: {fileID: 624515455, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 624515455, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_39
+      m_Hash: 1848653148
+      m_Sprite: {fileID: -1879188420, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1879188420, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_40
+      m_Hash: 1487739711
+      m_Sprite: {fileID: 521265445, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 521265445, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_41
+      m_Hash: 799681449
+      m_Sprite: {fileID: 722092479, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 722092479, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_42
+      m_Hash: -1230800365
+      m_Sprite: {fileID: 2099544096, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2099544096, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_43
+      m_Hash: -1046197627
+      m_Sprite: {fileID: -1710905807, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1710905807, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_44
+      m_Hash: 1606475558
+      m_Sprite: {fileID: -1139789023, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1139789023, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_NE
+    m_Hash: -2146663940
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Nariz_45
+      m_Hash: 684191664
+      m_Sprite: {fileID: 1747440494, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1747440494, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_NE
+    m_Hash: 134185199
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Nariz_46
+      m_Hash: -1311850998
+      m_Sprite: {fileID: 602926144, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 602926144, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_47
+      m_Hash: -959869284
+      m_Sprite: {fileID: 181320376, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 181320376, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_48
+      m_Hash: 1450611469
+      m_Sprite: {fileID: -731739427, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -731739427, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_49
+      m_Hash: 561095579
+      m_Sprite: {fileID: 92098492, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 92098492, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_50
+      m_Hash: 1102457470
+      m_Sprite: {fileID: 696473351, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 696473351, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_51
+      m_Hash: 917576424
+      m_Sprite: {fileID: -1191901748, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1191901748, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_52
+      m_Hash: -1346876590
+      m_Sprite: {fileID: -708712444, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -708712444, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_53
+      m_Hash: -658539580
+      m_Sprite: {fileID: 1971034134, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1971034134, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_E
+    m_Hash: -245457282
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Nariz_54
+      m_Hash: 1188818535
+      m_Sprite: {fileID: 1573274824, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1573274824, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_E
+    m_Hash: 184311791
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Nariz_55
+      m_Hash: 836558577
+      m_Sprite: {fileID: -733451417, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -733451417, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_56
+      m_Hash: -1462399157
+      m_Sprite: {fileID: -69536726, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -69536726, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_57
+      m_Hash: -539836451
+      m_Sprite: {fileID: -2105898319, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2105898319, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_58
+      m_Hash: 1332585036
+      m_Sprite: {fileID: -1953766103, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1953766103, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_59
+      m_Hash: 946508506
+      m_Sprite: {fileID: 527833698, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 527833698, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_60
+      m_Hash: 1788574141
+      m_Sprite: {fileID: -2117375220, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2117375220, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_61
+      m_Hash: 496781611
+      m_Sprite: {fileID: 339580728, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 339580728, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_62
+      m_Hash: -2070603631
+      m_Sprite: {fileID: -282810091, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -282810091, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_SE
+    m_Hash: 2137058784
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Nariz_63
+      m_Hash: -208525305
+      m_Sprite: {fileID: -2013139508, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2013139508, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_SE
+    m_Hash: -124523277
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Nariz_64
+      m_Hash: 1844886948
+      m_Sprite: {fileID: 676558352, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 676558352, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_65
+      m_Hash: 452037938
+      m_Sprite: {fileID: 1428332829, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1428332829, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_66
+      m_Hash: -2080842616
+      m_Sprite: {fileID: -1124968616, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1124968616, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_67
+      m_Hash: -184554466
+      m_Sprite: {fileID: -1057669909, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1057669909, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_68
+      m_Hash: 1681977743
+      m_Sprite: {fileID: 678218463, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 678218463, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_69
+      m_Hash: 323469593
+      m_Sprite: {fileID: -540700367, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -540700367, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_70
+      m_Hash: 1937787132
+      m_Sprite: {fileID: 187381688, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 187381688, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    - m_Name: Nariz_71
+      m_Hash: 75987050
+      m_Sprite: {fileID: -1964828921, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1964828921, guid: 03abbd33a9d547d4eadf4661213ea6c2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  m_PrimaryLibraryGUID: 

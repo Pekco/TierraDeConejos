@@ -1,0 +1,472 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Idle_S
+    m_Hash: 92941103
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Cejas_0
+      m_Hash: -1377601849
+      m_Sprite: {fileID: 1392891096, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1392891096, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_S
+    m_Hash: -30872898
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Cejas_1
+      m_Hash: -622573999
+      m_Sprite: {fileID: 1847909202, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1847909202, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_2
+      m_Hash: 1139611627
+      m_Sprite: {fileID: -1862752346, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1862752346, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_3
+      m_Hash: 887760765
+      m_Sprite: {fileID: 1343413642, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1343413642, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_4
+      m_Hash: -1433488674
+      m_Sprite: {fileID: -723469037, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -723469037, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_5
+      m_Hash: -578190776
+      m_Sprite: {fileID: 41935990, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 41935990, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_6
+      m_Hash: 1149293554
+      m_Sprite: {fileID: 500317510, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 500317510, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_7
+      m_Hash: 864543588
+      m_Sprite: {fileID: 2001725548, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2001725548, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_8
+      m_Hash: -1556545803
+      m_Sprite: {fileID: -1455558994, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1455558994, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_SW
+    m_Hash: -1931895640
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Cejas_9
+      m_Hash: -734015901
+      m_Sprite: {fileID: -278500178, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -278500178, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_SW
+    m_Hash: 187342267
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Cejas_10
+      m_Hash: -395486715
+      m_Sprite: {fileID: -34129401, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -34129401, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_11
+      m_Hash: -1620415853
+      m_Sprite: {fileID: 2036906885, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2036906885, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_12
+      m_Hash: 107166505
+      m_Sprite: {fileID: 622275774, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 622275774, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_13
+      m_Hash: 1902382015
+      m_Sprite: {fileID: -68827489, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -68827489, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_14
+      m_Hash: -285172196
+      m_Sprite: {fileID: 1300976361, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1300976361, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_15
+      m_Hash: -1744327030
+      m_Sprite: {fileID: -354459381, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -354459381, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_16
+      m_Hash: 17760048
+      m_Sprite: {fileID: 1341964609, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1341964609, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_17
+      m_Hash: 1980354470
+      m_Sprite: {fileID: -30829976, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -30829976, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_W
+    m_Hash: 48754486
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Cejas_18
+      m_Hash: -424226249
+      m_Sprite: {fileID: 1770907675, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1770907675, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_W
+    m_Hash: -112906585
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Cejas_19
+      m_Hash: -1850613087
+      m_Sprite: {fileID: -1703429749, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1703429749, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_20
+      m_Hash: -1019213370
+      m_Sprite: {fileID: -1166224206, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1166224206, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_21
+      m_Hash: -1270400688
+      m_Sprite: {fileID: 1725294636, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1725294636, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_22
+      m_Hash: 760113386
+      m_Sprite: {fileID: -805555157, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -805555157, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_23
+      m_Hash: 1514756220
+      m_Sprite: {fileID: 1754559326, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1754559326, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_24
+      m_Hash: -1003631137
+      m_Sprite: {fileID: -1422150629, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1422150629, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_25
+      m_Hash: -1289028279
+      m_Sprite: {fileID: -1591377572, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1591377572, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_26
+      m_Hash: 706981107
+      m_Sprite: {fileID: 998083743, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 998083743, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_NW
+    m_Hash: 1941303476
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Cejas_27
+      m_Hash: 1562680421
+      m_Sprite: {fileID: -488919267, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -488919267, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_NW
+    m_Hash: -196677209
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Cejas_28
+      m_Hash: -845446668
+      m_Sprite: {fileID: -926534594, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -926534594, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_29
+      m_Hash: -1164136094
+      m_Sprite: {fileID: 1402788741, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1402788741, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_30
+      m_Hash: -631555961
+      m_Sprite: {fileID: -1567470910, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1567470910, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_31
+      m_Hash: -1386477551
+      m_Sprite: {fileID: 1584546631, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1584546631, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_32
+      m_Hash: 878008747
+      m_Sprite: {fileID: 663858444, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 663858444, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_33
+      m_Hash: 1129474365
+      m_Sprite: {fileID: 890506351, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 890506351, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_34
+      m_Hash: -583598946
+      m_Sprite: {fileID: 1708426450, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1708426450, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_35
+      m_Hash: -1439577080
+      m_Sprite: {fileID: -906224605, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -906224605, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_N
+    m_Hash: 1720469494
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Cejas_36
+      m_Hash: 859348402
+      m_Sprite: {fileID: 224040505, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 224040505, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_N
+    m_Hash: -1657895321
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Cejas_37
+      m_Hash: 1145023780
+      m_Sprite: {fileID: -1527408555, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1527408555, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_38
+      m_Hash: -729763659
+      m_Sprite: {fileID: -2045712347, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2045712347, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_39
+      m_Hash: -1551400925
+      m_Sprite: {fileID: 27898616, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 27898616, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_40
+      m_Hash: -1793413568
+      m_Sprite: {fileID: -405187408, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -405187408, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_41
+      m_Hash: -501375274
+      m_Sprite: {fileID: -1122993370, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1122993370, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_42
+      m_Hash: 2064961388
+      m_Sprite: {fileID: 495933518, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 495933518, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_43
+      m_Hash: 202637306
+      m_Sprite: {fileID: 429291802, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 429291802, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_44
+      m_Hash: -1837667751
+      m_Sprite: {fileID: 414097115, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 414097115, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_NE
+    m_Hash: -2146663940
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Cejas_45
+      m_Hash: -445621553
+      m_Sprite: {fileID: -324627347, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -324627347, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_NE
+    m_Hash: 134185199
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Cejas_46
+      m_Hash: 2088307573
+      m_Sprite: {fileID: 645275638, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 645275638, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_47
+      m_Hash: 192822243
+      m_Sprite: {fileID: -1813159601, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1813159601, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_48
+      m_Hash: -1681840526
+      m_Sprite: {fileID: 1422724731, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1422724731, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_49
+      m_Hash: -322562332
+      m_Sprite: {fileID: 883142811, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 883142811, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_50
+      m_Hash: -1946050815
+      m_Sprite: {fileID: -292427284, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -292427284, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_51
+      m_Hash: -83447913
+      m_Sprite: {fileID: 283275731, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 283275731, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_52
+      m_Hash: 1645215277
+      m_Sprite: {fileID: -2014114815, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2014114815, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_53
+      m_Hash: 352898747
+      m_Sprite: {fileID: -317244766, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -317244766, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_E
+    m_Hash: -245457282
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Cejas_54
+      m_Hash: -1955833064
+      m_Sprite: {fileID: -126320770, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -126320770, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_E
+    m_Hash: 184311791
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Cejas_55
+      m_Hash: -60068978
+      m_Sprite: {fileID: 1075179068, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1075179068, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_56
+      m_Hash: 1700936244
+      m_Sprite: {fileID: 1004411318, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1004411318, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_57
+      m_Hash: 308611746
+      m_Sprite: {fileID: 182152103, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 182152103, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_58
+      m_Hash: -2099636429
+      m_Sprite: {fileID: 1784653658, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1784653658, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_59
+      m_Hash: -170055771
+      m_Sprite: {fileID: -171523987, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -171523987, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_60
+      m_Hash: -1490236222
+      m_Sprite: {fileID: -292086308, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -292086308, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_61
+      m_Hash: -802423724
+      m_Sprite: {fileID: -2131037855, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2131037855, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_62
+      m_Hash: 1227009518
+      m_Sprite: {fileID: 584613776, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 584613776, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_SE
+    m_Hash: 2137058784
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Cejas_63
+      m_Hash: 1042652536
+      m_Sprite: {fileID: 777572641, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 777572641, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_SE
+    m_Hash: -124523277
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Cejas_64
+      m_Hash: -1606350629
+      m_Sprite: {fileID: -451318576, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -451318576, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_65
+      m_Hash: -683263923
+      m_Sprite: {fileID: -1837256454, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1837256454, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_66
+      m_Hash: 1313827319
+      m_Sprite: {fileID: 745838697, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 745838697, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_67
+      m_Hash: 961042785
+      m_Sprite: {fileID: 1348938038, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1348938038, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_68
+      m_Hash: -1443412752
+      m_Sprite: {fileID: 824687463, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 824687463, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_69
+      m_Hash: -554666906
+      m_Sprite: {fileID: -1714210988, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1714210988, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_70
+      m_Hash: -1103626877
+      m_Sprite: {fileID: 1455969987, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1455969987, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    - m_Name: Cejas_71
+      m_Hash: -919548651
+      m_Sprite: {fileID: 217061772, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 217061772, guid: 1c6e972a3967cde46b08e6fa2c2c4489, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  m_PrimaryLibraryGUID: 

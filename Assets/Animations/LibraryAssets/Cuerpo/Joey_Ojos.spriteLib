@@ -1,0 +1,472 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Idle_S
+    m_Hash: 92941103
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Ojos_0
+      m_Hash: -1304021347
+      m_Sprite: {fileID: 890539835, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 890539835, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_S
+    m_Hash: -30872898
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Ojos_1
+      m_Hash: -985594357
+      m_Sprite: {fileID: 2009710284, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2009710284, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_2
+      m_Hash: 1548244913
+      m_Sprite: {fileID: -855579393, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -855579393, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_3
+      m_Hash: 726624039
+      m_Sprite: {fileID: -1763361909, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1763361909, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_4
+      m_Hash: -1255411068
+      m_Sprite: {fileID: 1052710888, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1052710888, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_5
+      m_Hash: -1037254126
+      m_Sprite: {fileID: 929141552, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 929141552, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_6
+      m_Hash: 1529189288
+      m_Sprite: {fileID: 238176488, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 238176488, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_7
+      m_Hash: 740467518
+      m_Sprite: {fileID: -1247174506, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1247174506, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_8
+      m_Hash: -1130512721
+      m_Sprite: {fileID: -752002082, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -752002082, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_SW
+    m_Hash: -1931895640
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Ojos_9
+      m_Hash: -879063495
+      m_Sprite: {fileID: -1225420266, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1225420266, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_SW
+    m_Hash: 187342267
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Ojos_10
+      m_Hash: 1674332079
+      m_Sprite: {fileID: 174566067, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 174566067, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_11
+      m_Hash: 348878649
+      m_Sprite: {fileID: 512481815, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 512481815, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_12
+      m_Hash: -1916655997
+      m_Sprite: {fileID: -2078522934, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2078522934, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_13
+      m_Hash: -87747051
+      m_Sprite: {fileID: -661410021, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -661410021, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_14
+      m_Hash: 1688306614
+      m_Sprite: {fileID: 1735870778, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1735870778, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_15
+      m_Hash: 329691936
+      m_Sprite: {fileID: 1030486161, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1030486161, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_16
+      m_Hash: -1968184678
+      m_Sprite: {fileID: 2092983712, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2092983712, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_17
+      m_Hash: -39267828
+      m_Sprite: {fileID: 1526713365, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1526713365, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_W
+    m_Hash: 48754486
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Ojos_18
+      m_Hash: 1830277021
+      m_Sprite: {fileID: -108750021, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -108750021, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_W
+    m_Hash: -112906585
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Ojos_19
+      m_Hash: 437321483
+      m_Sprite: {fileID: -1443619728, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1443619728, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_20
+      m_Hash: 1222710380
+      m_Sprite: {fileID: 331357729, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 331357729, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_21
+      m_Hash: 1072047354
+      m_Sprite: {fileID: -1310810619, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1310810619, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_22
+      m_Hash: -1494256320
+      m_Sprite: {fileID: -1662064422, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1662064422, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_23
+      m_Hash: -773306922
+      m_Sprite: {fileID: -1537694870, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1537694870, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_24
+      m_Hash: 1334628469
+      m_Sprite: {fileID: -255481894, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -255481894, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_25
+      m_Hash: 948691171
+      m_Sprite: {fileID: -284884050, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -284884050, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_26
+      m_Hash: -1585270439
+      m_Sprite: {fileID: 683470845, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 683470845, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_NW
+    m_Hash: 1941303476
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Ojos_27
+      m_Hash: -695893553
+      m_Sprite: {fileID: -2027220291, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2027220291, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_NW
+    m_Hash: -196677209
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Ojos_28
+      m_Hash: 1178246238
+      m_Sprite: {fileID: -7627842, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7627842, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_29
+      m_Hash: 826125512
+      m_Sprite: {fileID: -1666873436, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1666873436, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_30
+      m_Hash: 1375348013
+      m_Sprite: {fileID: 1602156423, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1602156423, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_31
+      m_Hash: 654120379
+      m_Sprite: {fileID: -478797477, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -478797477, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_32
+      m_Hash: -1074510847
+      m_Sprite: {fileID: -522600679, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -522600679, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_33
+      m_Hash: -923569001
+      m_Sprite: {fileID: 1792591917, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1792591917, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_34
+      m_Hash: 1452794164
+      m_Sprite: {fileID: -808560235, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -808560235, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_35
+      m_Hash: 563138978
+      m_Sprite: {fileID: -1144802602, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1144802602, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_N
+    m_Hash: 1720469494
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Ojos_36
+      m_Hash: -1197899752
+      m_Sprite: {fileID: 2114510352, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2114510352, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_N
+    m_Hash: -1657895321
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Ojos_37
+      m_Hash: -811683698
+      m_Sprite: {fileID: -1118360113, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1118360113, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_38
+      m_Hash: 1596042527
+      m_Sprite: {fileID: -1380061802, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1380061802, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_39
+      m_Hash: 673619337
+      m_Sprite: {fileID: 1949019844, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1949019844, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_40
+      m_Hash: 515617770
+      m_Sprite: {fileID: -397797996, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -397797996, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_41
+      m_Hash: 1773962108
+      m_Sprite: {fileID: -1234321088, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1234321088, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_42
+      m_Hash: -256519482
+      m_Sprite: {fileID: -1385227988, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1385227988, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_43
+      m_Hash: -2018319792
+      m_Sprite: {fileID: 877225329, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 877225329, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_44
+      m_Hash: 433485811
+      m_Sprite: {fileID: -1801792879, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1801792879, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_NE
+    m_Hash: -2146663940
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Ojos_45
+      m_Hash: 1859209061
+      m_Sprite: {fileID: -1017083052, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1017083052, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_NE
+    m_Hash: 134185199
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Ojos_46
+      m_Hash: -136833313
+      m_Sprite: {fileID: 1330147283, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1330147283, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_47
+      m_Hash: -2132859319
+      m_Sprite: {fileID: 2050318667, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2050318667, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_48
+      m_Hash: 274742232
+      m_Sprite: {fileID: 1905381397, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1905381397, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_49
+      m_Hash: 1734806350
+      m_Sprite: {fileID: 1443206804, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1443206804, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_50
+      m_Hash: 127959723
+      m_Sprite: {fileID: -1712137097, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1712137097, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_51
+      m_Hash: 1890038333
+      m_Sprite: {fileID: 1180044614, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1180044614, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_52
+      m_Hash: -374414457
+      m_Sprite: {fileID: -2023422601, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2023422601, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_53
+      m_Hash: -1633037551
+      m_Sprite: {fileID: 1833092079, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1833092079, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_E
+    m_Hash: -245457282
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Ojos_54
+      m_Hash: 13452978
+      m_Sprite: {fileID: 1811531137, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1811531137, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_E
+    m_Hash: 184311791
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Ojos_55
+      m_Hash: 2009757220
+      m_Sprite: {fileID: -848932611, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -848932611, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_56
+      m_Hash: -289200226
+      m_Sprite: {fileID: -879523745, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -879523745, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_57
+      m_Hash: -1715202296
+      m_Sprite: {fileID: 1834805602, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1834805602, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_58
+      m_Hash: 159058585
+      m_Sprite: {fileID: -944350249, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -944350249, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_59
+      m_Hash: 2122070543
+      m_Sprite: {fileID: -1481053569, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1481053569, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_60
+      m_Hash: 747491688
+      m_Sprite: {fileID: -709476765, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -709476765, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_61
+      m_Hash: 1535828478
+      m_Sprite: {fileID: -4771757, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -4771757, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_62
+      m_Hash: -1031557052
+      m_Sprite: {fileID: -957474074, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -957474074, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_SE
+    m_Hash: 2137058784
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Ojos_63
+      m_Hash: -1249607470
+      m_Sprite: {fileID: 576472660, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 576472660, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_SE
+    m_Hash: -124523277
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Ojos_64
+      m_Hash: 736105841
+      m_Sprite: {fileID: -1504740846, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1504740846, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_65
+      m_Hash: 1558652391
+      m_Sprite: {fileID: 277026286, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 277026286, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_66
+      m_Hash: -974228387
+      m_Sprite: {fileID: 1296106801, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1296106801, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_67
+      m_Hash: -1293335349
+      m_Sprite: {fileID: 2130768955, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2130768955, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_68
+      m_Hash: 576084314
+      m_Sprite: {fileID: -356330228, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -356330228, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_69
+      m_Hash: 1431398860
+      m_Sprite: {fileID: 1441020657, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1441020657, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_70
+      m_Hash: 899080233
+      m_Sprite: {fileID: -532157624, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -532157624, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    - m_Name: Ojos_71
+      m_Hash: 1116852415
+      m_Sprite: {fileID: -1458815768, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1458815768, guid: 34c3844bd57c71445a844c571e5b35ac, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  m_PrimaryLibraryGUID: 

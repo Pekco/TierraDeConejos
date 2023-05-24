@@ -1,0 +1,472 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Idle_S
+    m_Hash: 92941103
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pierna_D_0
+      m_Hash: 537513236
+      m_Sprite: {fileID: 624205597, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 624205597, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_S
+    m_Hash: -30872898
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pierna_D_1
+      m_Hash: 1460600194
+      m_Sprite: {fileID: 2082310367, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2082310367, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_2
+      m_Hash: -838357960
+      m_Sprite: {fileID: -1308043690, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1308043690, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_3
+      m_Hash: -1191142226
+      m_Sprite: {fileID: -337562103, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -337562103, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_4
+      m_Hash: 660867341
+      m_Sprite: {fileID: -825502591, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -825502591, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_5
+      m_Hash: 1348680091
+      m_Sprite: {fileID: 1913832081, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1913832081, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_6
+      m_Hash: -915773407
+      m_Sprite: {fileID: -1174870843, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1174870843, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_7
+      m_Hash: -1100130121
+      m_Sprite: {fileID: -324937948, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -324937948, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_8
+      m_Hash: 785532198
+      m_Sprite: {fileID: 1460265091, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1460265091, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_SW
+    m_Hash: -1931895640
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pierna_D_9
+      m_Hash: 1507161520
+      m_Sprite: {fileID: -2014772794, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2014772794, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_SW
+    m_Hash: 187342267
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pierna_D_10
+      m_Hash: -147180592
+      m_Sprite: {fileID: 1287334569, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1287334569, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_11
+      m_Hash: -2143485114
+      m_Sprite: {fileID: 1025612201, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1025612201, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_12
+      m_Hash: 422859516
+      m_Sprite: {fileID: -1660537048, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1660537048, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_13
+      m_Hash: 1848861290
+      m_Sprite: {fileID: -1322962191, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1322962191, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_14
+      m_Hash: -262670391
+      m_Sprite: {fileID: -1316149343, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1316149343, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_15
+      m_Hash: -2024749217
+      m_Sprite: {fileID: 1930605387, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1930605387, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_16
+      m_Hash: 509187813
+      m_Sprite: {fileID: 1018208420, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1018208420, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_17
+      m_Hash: 1767810675
+      m_Sprite: {fileID: -675656949, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -675656949, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_W
+    m_Hash: 48754486
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pierna_D_18
+      m_Hash: -102646814
+      m_Sprite: {fileID: 1711684968, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1711684968, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_W
+    m_Hash: -112906585
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pierna_D_19
+      m_Hash: -1897493644
+      m_Sprite: {fileID: -1447876444, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1447876444, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_20
+      m_Hash: -602447853
+      m_Sprite: {fileID: 1240977556, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1240977556, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_21
+      m_Hash: -1424994171
+      m_Sprite: {fileID: -16921160, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -16921160, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_22
+      m_Hash: 840499519
+      m_Sprite: {fileID: -822039106, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -822039106, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_23
+      m_Hash: 1159606697
+      m_Sprite: {fileID: 579432450, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 579432450, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_24
+      m_Hash: -612719606
+      m_Sprite: {fileID: -1054966851, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1054966851, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_25
+      m_Hash: -1401056100
+      m_Sprite: {fileID: 929522008, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 929522008, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_26
+      m_Hash: 896845094
+      m_Sprite: {fileID: 1964059569, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1964059569, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_NW
+    m_Hash: 1941303476
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pierna_D_27
+      m_Hash: 1114895792
+      m_Sprite: {fileID: -587679546, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -587679546, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_NW
+    m_Hash: -196677209
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pierna_D_28
+      m_Hash: -758323167
+      m_Sprite: {fileID: 2010766888, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2010766888, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_29
+      m_Hash: -1513367369
+      m_Sprite: {fileID: -1639055827, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1639055827, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_30
+      m_Hash: -989048494
+      m_Sprite: {fileID: 303584507, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 303584507, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_31
+      m_Hash: -1307876924
+      m_Sprite: {fileID: -371335861, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -371335861, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_32
+      m_Hash: 721563774
+      m_Sprite: {fileID: 393632207, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 393632207, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_33
+      m_Hash: 1543831784
+      m_Sprite: {fileID: -1293313386, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1293313386, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_34
+      m_Hash: -1033792181
+      m_Sprite: {fileID: -664795040, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -664795040, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_35
+      m_Hash: -1251564067
+      m_Sprite: {fileID: -1700459795, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1700459795, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_N
+    m_Hash: 1720469494
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pierna_D_36
+      m_Hash: 745534567
+      m_Sprite: {fileID: 529156001, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 529156001, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_N
+    m_Hash: -1657895321
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pierna_D_37
+      m_Hash: 1533592817
+      m_Sprite: {fileID: -878021189, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -878021189, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_38
+      m_Hash: -875046560
+      m_Sprite: {fileID: -469308047, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -469308047, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_39
+      m_Hash: -1127159306
+      m_Sprite: {fileID: 1690169428, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1690169428, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_40
+      m_Hash: -1974614123
+      m_Sprite: {fileID: 829439684, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 829439684, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_41
+      m_Hash: -45418749
+      m_Sprite: {fileID: 1316943079, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1316943079, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_42
+      m_Hash: 1682155193
+      m_Sprite: {fileID: 335771502, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 335771502, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_43
+      m_Hash: 323261999
+      m_Sprite: {fileID: 232979110, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 232979110, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_44
+      m_Hash: -1927281780
+      m_Sprite: {fileID: -748331327, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -748331327, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_NE
+    m_Hash: -2146663940
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pierna_D_45
+      m_Hash: -98094310
+      m_Sprite: {fileID: 1800120357, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1800120357, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_NE
+    m_Hash: 134185199
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pierna_D_46
+      m_Hash: 1663984288
+      m_Sprite: {fileID: 60724220, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 60724220, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_47
+      m_Hash: 338252342
+      m_Sprite: {fileID: 621295334, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 621295334, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_48
+      m_Hash: -2070523993
+      m_Sprite: {fileID: 2134545261, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2134545261, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_49
+      m_Hash: -208568527
+      m_Sprite: {fileID: 310540716, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 310540716, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_50
+      m_Hash: -1823017260
+      m_Sprite: {fileID: -621026822, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -621026822, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_51
+      m_Hash: -464402878
+      m_Sprite: {fileID: 1301143754, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1301143754, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_52
+      m_Hash: 2102958072
+      m_Sprite: {fileID: 2011794521, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2011794521, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_53
+      m_Hash: 174040942
+      m_Sprite: {fileID: -1934520042, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1934520042, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_E
+    m_Hash: -245457282
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pierna_D_54
+      m_Hash: -1808059699
+      m_Sprite: {fileID: -1912446013, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1912446013, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_E
+    m_Hash: 184311791
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pierna_D_55
+      m_Hash: -482606501
+      m_Sprite: {fileID: -343774654, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -343774654, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_56
+      m_Hash: 2050315233
+      m_Sprite: {fileID: -232229118, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -232229118, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_57
+      m_Hash: 221406071
+      m_Sprite: {fileID: 66759919, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 66759919, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_58
+      m_Hash: -1651671322
+      m_Sprite: {fileID: -1844226167, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1844226167, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_59
+      m_Hash: -360034704
+      m_Sprite: {fileID: 1444288176, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1444288176, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_60
+      m_Hash: -1199856361
+      m_Sprite: {fileID: 1361868255, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1361868255, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_61
+      m_Hash: -813918847
+      m_Sprite: {fileID: 914122937, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 914122937, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_62
+      m_Hash: 1450558523
+      m_Sprite: {fileID: -1933734175, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1933734175, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_SE
+    m_Hash: 2137058784
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pierna_D_63
+      m_Hash: 561181869
+      m_Sprite: {fileID: 931084340, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 931084340, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_SE
+    m_Hash: -124523277
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pierna_D_64
+      m_Hash: -1089052402
+      m_Sprite: {fileID: 907033642, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 907033642, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_65
+      m_Hash: -938389096
+      m_Sprite: {fileID: -388968723, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -388968723, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_66
+      m_Hash: 1360527394
+      m_Sprite: {fileID: -195394103, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -195394103, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_67
+      m_Hash: 639578292
+      m_Sprite: {fileID: 1561293145, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1561293145, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_68
+      m_Hash: -1231016667
+      m_Sprite: {fileID: -1579109111, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1579109111, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_69
+      m_Hash: -1046012493
+      m_Sprite: {fileID: -128976292, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -128976292, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_70
+      m_Hash: -1587506090
+      m_Sprite: {fileID: 553711354, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 553711354, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    - m_Name: Pierna_D_71
+      m_Hash: -697850688
+      m_Sprite: {fileID: -1286004665, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1286004665, guid: afe172f7be754be4caf4c87192d164d2, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  m_PrimaryLibraryGUID: 

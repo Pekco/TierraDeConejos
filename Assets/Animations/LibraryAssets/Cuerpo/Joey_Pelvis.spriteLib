@@ -1,0 +1,472 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Idle_S
+    m_Hash: 92941103
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pelvis_0
+      m_Hash: -347239916
+      m_Sprite: {fileID: 926620084, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 926620084, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_S
+    m_Hash: -30872898
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pelvis_1
+      m_Hash: -1672824190
+      m_Sprite: {fileID: 1476204942, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1476204942, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_2
+      m_Hash: 88337208
+      m_Sprite: {fileID: -157449431, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -157449431, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_3
+      m_Hash: 1917115310
+      m_Sprite: {fileID: 1804911703, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1804911703, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_4
+      m_Hash: -333427187
+      m_Sprite: {fileID: 1406326935, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1406326935, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_5
+      m_Hash: -1691910501
+      m_Sprite: {fileID: 81187714, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 81187714, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_6
+      m_Hash: 36581153
+      m_Sprite: {fileID: 2002140917, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2002140917, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_7
+      m_Hash: 1965629367
+      m_Sprite: {fileID: 1572782396, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1572782396, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_8
+      m_Hash: -443153882
+      m_Sprite: {fileID: -357206968, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -357206968, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_SW
+    m_Hash: -1931895640
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pelvis_9
+      m_Hash: -1835978064
+      m_Sprite: {fileID: -1242643430, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1242643430, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_SW
+    m_Hash: 187342267
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pelvis_10
+      m_Hash: -135170153
+      m_Sprite: {fileID: 1771709411, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1771709411, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_11
+      m_Hash: -2131343615
+      m_Sprite: {fileID: -1843263662, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1843263662, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_12
+      m_Hash: 436147899
+      m_Sprite: {fileID: -1932333818, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1932333818, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_13
+      m_Hash: 1861756461
+      m_Sprite: {fileID: 1147073640, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1147073640, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_14
+      m_Hash: -258165874
+      m_Sprite: {fileID: 1287675391, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1287675391, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_15
+      m_Hash: -2019851496
+      m_Sprite: {fileID: -307859551, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -307859551, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_16
+      m_Hash: 512938658
+      m_Sprite: {fileID: 2104185032, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2104185032, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_17
+      m_Hash: 1771430452
+      m_Sprite: {fileID: -524147101, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -524147101, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_W
+    m_Hash: 48754486
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pelvis_18
+      m_Hash: -114622555
+      m_Sprite: {fileID: -449707250, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -449707250, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_W
+    m_Hash: -112906585
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pelvis_19
+      m_Hash: -1909600461
+      m_Sprite: {fileID: -169195085, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -169195085, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_20
+      m_Hash: -589552556
+      m_Sprite: {fileID: -1560668019, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1560668019, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_21
+      m_Hash: -1411705662
+      m_Sprite: {fileID: -954513463, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -954513463, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_22
+      m_Hash: 852641144
+      m_Sprite: {fileID: -1939445132, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1939445132, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_23
+      m_Hash: 1171617262
+      m_Sprite: {fileID: 95816515, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 95816515, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_24
+      m_Hash: -609099699
+      m_Sprite: {fileID: -1970820772, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1970820772, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_25
+      m_Hash: -1397305125
+      m_Sprite: {fileID: 141315702, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 141315702, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_26
+      m_Hash: 901742945
+      m_Sprite: {fileID: 1460688379, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1460688379, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_NW
+    m_Hash: 1941303476
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pelvis_27
+      m_Hash: 1119400439
+      m_Sprite: {fileID: -441857056, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -441857056, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_NW
+    m_Hash: -196677209
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pelvis_28
+      m_Hash: -771249050
+      m_Sprite: {fileID: -662502821, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -662502821, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_29
+      m_Hash: -1526686480
+      m_Sprite: {fileID: 1519571769, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1519571769, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_30
+      m_Hash: -976808683
+      m_Sprite: {fileID: 1203660459, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1203660459, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_31
+      m_Hash: -1296030333
+      m_Sprite: {fileID: 584124647, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 584124647, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_32
+      m_Hash: 734622777
+      m_Sprite: {fileID: 1998923623, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1998923623, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_33
+      m_Hash: 1557021871
+      m_Sprite: {fileID: -1772443134, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1772443134, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_34
+      m_Hash: -1028992756
+      m_Sprite: {fileID: -717243014, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -717243014, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_35
+      m_Hash: -1246895718
+      m_Sprite: {fileID: 949002893, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 949002893, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_N
+    m_Hash: 1720469494
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pelvis_36
+      m_Hash: 748990496
+      m_Sprite: {fileID: -784595644, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -784595644, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_N
+    m_Hash: -1657895321
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pelvis_37
+      m_Hash: 1537441974
+      m_Sprite: {fileID: -726340589, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -726340589, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_38
+      m_Hash: -887317209
+      m_Sprite: {fileID: -312285047, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -312285047, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_39
+      m_Hash: -1139036751
+      m_Sprite: {fileID: 1495234574, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1495234574, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_40
+      m_Hash: -1970895918
+      m_Sprite: {fileID: -615688670, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -615688670, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_41
+      m_Hash: -41831612
+      m_Sprite: {fileID: -2032056467, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2032056467, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_42
+      m_Hash: 1686692606
+      m_Sprite: {fileID: -469773256, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -469773256, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_43
+      m_Hash: 328192616
+      m_Sprite: {fileID: 1763796928, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1763796928, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_44
+      m_Hash: -1913960501
+      m_Sprite: {fileID: 1058727719, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1058727719, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_NE
+    m_Hash: -2146663940
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pelvis_45
+      m_Hash: -85166243
+      m_Sprite: {fileID: -5128120, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5128120, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_NE
+    m_Hash: 134185199
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pelvis_46
+      m_Hash: 1675962087
+      m_Sprite: {fileID: 1731893611, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1731893611, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_47
+      m_Hash: 350361201
+      m_Sprite: {fileID: 1114039287, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1114039287, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_48
+      m_Hash: -2074276896
+      m_Sprite: {fileID: -1373163697, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1373163697, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_49
+      m_Hash: -212190346
+      m_Sprite: {fileID: 331085134, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 331085134, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_50
+      m_Hash: -1818381677
+      m_Sprite: {fileID: -701400336, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -701400336, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_51
+      m_Hash: -459636219
+      m_Sprite: {fileID: 597028976, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 597028976, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_52
+      m_Hash: 2106839999
+      m_Sprite: {fileID: -1694334658, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1694334658, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_53
+      m_Hash: 177529641
+      m_Sprite: {fileID: 1379929272, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1379929272, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_E
+    m_Hash: -245457282
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pelvis_54
+      m_Hash: -1796180342
+      m_Sprite: {fileID: 1477516366, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1477516366, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_E
+    m_Hash: 184311791
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pelvis_55
+      m_Hash: -470333924
+      m_Sprite: {fileID: 464418514, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 464418514, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_56
+      m_Hash: 2063472550
+      m_Sprite: {fileID: 921149868, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 921149868, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_57
+      m_Hash: 234432304
+      m_Sprite: {fileID: 1891375304, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1891375304, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_58
+      m_Hash: -1656341855
+      m_Sprite: {fileID: -414941590, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -414941590, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_59
+      m_Hash: -364836297
+      m_Sprite: {fileID: 466186020, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 466186020, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_60
+      m_Hash: -1196367536
+      m_Sprite: {fileID: 161652066, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 161652066, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_61
+      m_Hash: -810036794
+      m_Sprite: {fileID: 63660839, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 63660839, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_62
+      m_Hash: 1455325308
+      m_Sprite: {fileID: -1272605606, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1272605606, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: Idle_SE
+    m_Hash: 2137058784
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pelvis_63
+      m_Hash: 565817578
+      m_Sprite: {fileID: -745608492, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -745608492, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Walk_SE
+    m_Hash: -124523277
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Pelvis_64
+      m_Hash: -1076026039
+      m_Sprite: {fileID: 1843550466, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1843550466, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_65
+      m_Hash: -925231649
+      m_Sprite: {fileID: 2104704244, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2104704244, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_66
+      m_Hash: 1372800101
+      m_Sprite: {fileID: -361861849, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -361861849, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_67
+      m_Hash: 651457779
+      m_Sprite: {fileID: -1451323150, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1451323150, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_68
+      m_Hash: -1234474654
+      m_Sprite: {fileID: 937207240, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 937207240, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_69
+      m_Hash: -1049863692
+      m_Sprite: {fileID: 961107726, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 961107726, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_70
+      m_Hash: -1582575599
+      m_Sprite: {fileID: -46246459, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -46246459, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    - m_Name: Pelvis_71
+      m_Hash: -693313401
+      m_Sprite: {fileID: 1750741076, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1750741076, guid: 4f913939404a9fc4da2f5319d3da93d1, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  m_PrimaryLibraryGUID: 
