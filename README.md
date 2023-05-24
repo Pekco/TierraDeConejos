@@ -22,6 +22,9 @@ Juego en desarrollo.
 <br>
 <br>
 ## Algunas partes de Joey
+
+Cada parte está separada, lo que permite intercambiarlas dentro del juego por otros sprites ( partes biónicas, por ejemplo ).
+
 ![](https://github.com/Pekco/TierraDeConejos/blob/main/Sprites/JoeyPorPartes/Cabeza.png)
 ![](https://github.com/Pekco/TierraDeConejos/blob/main/Sprites/JoeyPorPartes/Boca.png)
 ![](https://github.com/Pekco/TierraDeConejos/blob/main/Sprites/JoeyPorPartes/Brazo_D.png)
